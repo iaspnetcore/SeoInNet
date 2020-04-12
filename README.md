@@ -74,7 +74,7 @@ Check out my [blog](https://medium.com/@thangchung) or say hi on [Twitter](https
 
 ## General
 
-* [ASP.NET Core Documentation](https://docs.asp.net/en/latest/) - The official ASP.NET Core documentation site.
+* [从输入url到页面展示到底发生了什么](https://www.iaspnetcore.com/Blog/BlogPost/594961f484cd4533806563cf/from-the-input-url-to-the-page-to-show-what-happened/) - 本文的目的是通过了解输入url之后发生的事情来做Seo的知识的总结和扩展.
 * [.NET Core Documentation](https://docs.microsoft.com/en-us/dotnet/articles/welcome) - Home of the technical documentation for .NET Core, C#, F# and Visual Basic, including basic concepts, getting started instructions, tutorials and samples.
 * [.NET Core SDK](https://www.microsoft.com/net/core) - .NET Core SDK is a general purpose development platform maintained by Microsoft and the .NET community on [GitHub](https://github.com/dotnet/core).
 * [.NET Platform Standard](https://github.com/dotnet/corefx/blob/1719a3fe2a5c81b67a4909787da4a02fb0d0d419/Documentation/architecture/net-platform-standard.md) - The differrent between the old version and the new version of .NET.
