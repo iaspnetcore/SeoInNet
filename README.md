@@ -70,7 +70,7 @@ Check out my [blog](https://medium.com/@thangchung) or say hi on [Twitter](https
 * [Books](#books)
 * [Videos](#videos)
 * [Podcasts](#podcasts)
-* [Community](#community)
+* [SEO Site Checkup](#community)
 
 ## General
 
@@ -947,7 +947,7 @@ Follows best practices and conventions to provide you a SOLID development experi
 * [The sound of .NET](http://thesoundof.net/?q=.NET+Core)
 
 ## Community
-* [.NET Foundation](http://forums.dotnetfoundation.org)
+* [SEO Site Checkup](https://seositecheckup.com/seo-audit/miniblogcore.azurewebsites.net)
 * [.NET Blog](https://devblogs.microsoft.com/dotnet/)
 * [/r/CoolGithubProjects](https://www.reddit.com/r/coolgithubprojects)
 * [ASP.NET](https://forums.asp.net)
