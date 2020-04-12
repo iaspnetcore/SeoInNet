@@ -946,7 +946,7 @@ Follows best practices and conventions to provide you a SOLID development experi
 * [Merge Conflict](http://www.mergeconflict.fm/)
 * [The sound of .NET](http://thesoundof.net/?q=.NET+Core)
 
-## Community
+## SEO Site Checkup
 * [SEO Site Checkup](https://seositecheckup.com/seo-audit/miniblogcore.azurewebsites.net)
 * [.NET Blog](https://devblogs.microsoft.com/dotnet/)
 * [/r/CoolGithubProjects](https://www.reddit.com/r/coolgithubprojects)
