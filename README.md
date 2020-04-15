@@ -11,7 +11,7 @@ Check out my [blog](https://medium.com/@thangchung) or say hi on [Twitter](https
 ## Contents
 
 * [General](#general)
-* [Frameworks, Libraries and Tools](#frameworks-libraries-and-tools)
+* [Optimizing your ASP.NET core MVC site for Search](#optimizing-your-site-for-search)
   * [API](#api)
   * [Application Frameworks](#application-frameworks)
   * [Application Templates](#application-templates)
@@ -81,7 +81,7 @@ Check out my [blog](https://medium.com/@thangchung) or say hi on [Twitter](https
 * [Introducing .NET Standard 2.0](https://blogs.msdn.microsoft.com/dotnet/2016/09/26/introducing-net-standard) - The description of what will be going on for .NET Standard 2.0 and the roadmap for some missing parts of the current .NET Standard.
 * [Clean Code .NET/.NET Core](https://github.com/thangchung/clean-code-dotnet) - Clean Code concepts adapted for .NET / .NET Core.
 
-## Frameworks, Libraries and Tools
+## Optimizing your ASP.NET core MVC site for Search
 
 ### API
 
