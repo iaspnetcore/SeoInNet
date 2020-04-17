@@ -78,7 +78,7 @@ Check out my [blog](https://medium.com/@thangchung) or say hi on [Twitter](https
 * [从网络通信角度谈web性能优化(从输入url到浏览器开始渲染页面中间都发生了什么)](https://www.iaspnetcore.com/Blog/BlogPost/58fda66084cd45328c5c1640/web-performance-optimization-from-the-perspective-of-network-communication) - 本文从另一个维度描述了解输入url之后发生的事情来做Seo的知识的总结和扩展..
 * [[Original]网站前端性能提升优化要点实战记录](https://www.iaspnetcore.com/Blog/BlogPost/574db34b6ceb7e0be0ddad70/summary-of-the-main-points-of-the-performance-improvement-of-the-front-end-of-the-web-site) - 实时更新，优化要点备忘录.
 * [浅谈浏览器http的缓存机制](https://www.iaspnetcore.com/Blog/BlogPost/5949629084cd4533806567d0/the-type-and-mechanism-of-browser-https-caching) - 针对浏览器的http缓存的分析.
-* [Introducing .NET Standard 2.0](https://blogs.msdn.microsoft.com/dotnet/2016/09/26/introducing-net-standard) - The description of what will be going on for .NET Standard 2.0 and the roadmap for some missing parts of the current .NET Standard.
+* [Yahoo's Best Practices for Speeding Up Your Web Site](https://developer.yahoo.com/performance/rules.html) - The list includes 35 best practices divided into 7 categories,come from yahoo.
 * [Clean Code .NET/.NET Core](https://github.com/thangchung/clean-code-dotnet) - Clean Code concepts adapted for .NET / .NET Core.
 
 ## optimizing-your-site-for-search
