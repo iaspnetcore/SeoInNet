@@ -12,7 +12,7 @@ Check out my [blog](https://medium.com/@thangchung) or say hi on [Twitter](https
 
 * [General](#general)
 * [Optimizing your ASP.NET core MVC site for Search](#optimizing-your-site-for-search)
-  * [API](#api)
+  * [Title](#api)
   * [Application Frameworks](#application-frameworks)
   * [Application Templates](#application-templates)
   * [Authentication and Authorization](#authentication-and-authorization)
@@ -83,7 +83,7 @@ Check out my [blog](https://medium.com/@thangchung) or say hi on [Twitter](https
 
 ## optimizing-your-site-for-search
 
-### API
+### Title SEO
 
 * [HTTP headers](https://www.geeksforgeeks.org/http-headers-accept-language/) -This HTTP  header tells the server about all  that the client can understand.`
 * [aspnet-api-versioning](https://github.com/Microsoft/aspnet-api-versioning) - set of libraries which add service API versioning to ASP.NET Web API, OData with ASP.NET Web API, and ASP.NET Core.
