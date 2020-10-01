@@ -15,7 +15,7 @@ Check out my [blog](https://medium.com/@thangchung) or say hi on [Twitter](https
   * [Title](#Title-SEO)
   * [Application Frameworks](#application-frameworks)
   * [Application Templates](#application-templates)
-  * [Authentication and Authorization](#authentication-and-authorization)
+  * [Body body](#Body-body)
   * [Blockchain](#blockchain)
   * [Bot](#bot)
   * [Build Automation](#build-automation)
@@ -187,8 +187,8 @@ Follows best practices and conventions to provide you a SOLID development experi
 * [Serenity](https://github.com/volkanceylan/Serenity) - Serenity is an ASP.NET MVC / TypeScript application platform designed to simplify and shorten development of data-centric business applications with a service based architecture.
 * [Toucan](https://github.com/mrellipse/toucan) - Boilerplate for building single page apps. Server is multi-project .Net Core solution designed around SOLID principles. Client is TypeScript 2, Vuejs 2, Vuex 2.
 
-### Authentication and Authorization
-* [AspNet.Security.OpenIdConnect.Server](https://github.com/aspnet-contrib/AspNet.Security.OpenIdConnect.Server) - OpenID Connect/OAuth2 server framework for OWIN/Katana and ASP.NET Core.
+### Body body
+* [网页优化SEO-HTML5扩展之微数据http://schema.org与丰富网页摘要itemscope, itemtype, itemprop](https://www.iaspnetcore.com/Blog/BlogPost/5ec8d27a4150553e79153ff8) - 网页优化SEO-HTML5扩展之微数据http://schema.org与丰富网页摘要itemscope, itemtype, itemprop.
 * [Auth0](https://github.com/auth0/auth0.net) - Hosted, enterprise-grade platform for modern identity.
 * [Casbin.NET](https://github.com/casbin-net/Casbin.NET) - Authorization library that supports access control models like ACL, RBAC, ABAC in C#
 * [Identity](https://github.com/aspnet/Identity) - ASP.NET Core Identity is the membership system for building ASP.NET Core web applications, including membership, login, and user data.
