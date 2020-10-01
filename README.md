@@ -12,7 +12,7 @@ Check out my [blog](https://medium.com/@thangchung) or say hi on [Twitter](https
 
 * [General](#general)
 * [Optimizing your ASP.NET core MVC site for Search](#optimizing-your-site-for-search)
-  * [Title](#api)
+  * [Title](#Title-SEO)
   * [Application Frameworks](#application-frameworks)
   * [Application Templates](#application-templates)
   * [Authentication and Authorization](#authentication-and-authorization)
