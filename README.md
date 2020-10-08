@@ -63,7 +63,7 @@ Check out my [blog](https://medium.com/@thangchung) or say hi on [Twitter](https
   * [Web Socket](#web-socket)
   * [Windows Service](#windows-service)
   * [Workflow](#workflow)
-* [Roadmaps](#roadmaps)
+* [Nopcommerce 4.3x Seo](#Nopcommerce)
 * [Starter Kits](#starter-kits)
 * [Sample Projects](#sample-projects)
 * [Articles](#articles)
@@ -822,8 +822,8 @@ Follows best practices and conventions to provide you a SOLID development experi
 * [WorkflowEngine.NET](https://github.com/optimajet/WorkflowEngine.NET) - Component that adds workflow in your application.
 * [Wexflow](https://github.com/aelassas/Wexflow) - A high performance, extensible, modular and cross-platform workflow engine.
 
-## Roadmaps
-* [ASP.NET Core Developer Roadmap](https://github.com/MoienTajik/AspNetCore-Developer-Roadmap) - Roadmap to becoming an ASP.NET Core developer in 2019.
+## Nopcommerce
+* [Nopcommerce seo url](https://www.iaspnetcore.com/blog/blogpost/5f7c2a0f1c80fd29458695e3) - NopCommerce源码架构详解--对seo友好Url的路由机制实现源码分析（Nopcommerce 4.3x .Net core 3.1）
 
 ## Starter Kits
 * [Arch](https://github.com/Arch) - The collection of .NET Core libraries that are created by software architects who embrace all the new stuff in .NET Core.
