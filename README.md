@@ -13,7 +13,7 @@ Check out my [blog](https://medium.com/@thangchung) or say hi on [Twitter](https
 * [General](#general)
 * [Optimizing your ASP.NET core MVC site for Search](#optimizing-your-site-for-search)
   * [Title](#Title-SEO)
-  * [Application Frameworks](#application-frameworks)
+  * [Body](#body)
   * [Application Templates](#application-templates)
   * [Body body](#Body-body)
   * [Blockchain](#blockchain)
@@ -121,8 +121,8 @@ Check out my [blog](https://medium.com/@thangchung) or say hi on [Twitter](https
 * [WebAnchor](https://github.com/mattiasnordqvist/Web-Anchor) - Web Anchor provides type-safe, testable and flexible, runtime-generated access to web resources.
 * [WebAPIContrib for ASP.NET CORE](https://github.com/WebApiContrib/WebAPIContrib.Core) - Community Contributions for ASP.NET Core.
 
-### Application Frameworks
-* [ASP.NET Boilerplate](https://github.com/aspnetboilerplate/aspnetboilerplate) - ASP.NET Boilerplate is a general purpose application framework especially designed for new modern web applications. It uses already familiar tools and implements best practices around them to provide you a SOLID development experience.
+### Body
+* [网页优化SEO-HTML5与搜索引擎优化](https://www.iaspnetcore.com/blog/5ec8e7574150553e7916480b) - 网页结构设计优化SEO-HTML5与搜索引擎优化.
 * [Abp vNext](https://github.com/abpframework/abp) - Abp vNext is the next generation of the open source [ASP.NET Boilerplate](https://github.com/aspnetboilerplate/aspnetboilerplate) framework. It's a complete architecture and strong infrastructure to create modern web applications!
 Follows best practices and conventions to provide you a SOLID development experience.
 * [AsyncEx](https://github.com/StephenCleary/AsyncEx) - A helper library for async/await.
