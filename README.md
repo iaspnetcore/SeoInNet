@@ -14,7 +14,7 @@ Check out my [blog](https://medium.com/@thangchung) or say hi on [Twitter](https
 * [Optimizing your ASP.NET core MVC site for Search](#optimizing-your-site-for-search)
   * [Title](#Title-SEO)
   * [Body](#body)
-  * [Application Templates](#application-templates)
+  * [Header](#header)
   * [Body body](#Body-body)
   * [Blockchain](#blockchain)
   * [Bot](#bot)
@@ -170,8 +170,8 @@ Follows best practices and conventions to provide you a SOLID development experi
 * [Xer.Cqrs](https://github.com/jeyjeyemem/Xer.Cqrs) - A simple library for creating applications based on the CQRS pattern with support for attribute routing and hosted handlers. Developed in C# targeting .NET Standard 1.0.
 * [X.PagedList](https://github.com/dncuug/X.PagedList) - Library for easily paging through any IEnumerable/IQueryable in ASP.NET/ASP.NET Core.
 
-### Application Templates
-* [.NET Boxed](https://github.com/Dotnet-Boxed/Templates) - Project templates with batteries included, providing the minimum amount of code required to get you going. Includes ASP.NET Core API and GraphQL Templates.
+### Header
+* [ OpenGraph协议可以让网页成为一个“富媒体对象](https://www.iaspnetcore.com/Blog/BlogPost/584ae9e284cd452eec3efca8) -  OpenGraph协议可以让网页成为一个“富媒体对象.
 * [aspnet-core-react-template](https://github.com/bradymholt/aspnet-core-react-template) - ASP.NET Core 2.0 / React SPA Template App.
 * [AspNetCoreSpa](https://github.com/asadsahi/AspNetCoreSpa) - Asp.Net Core 2+ & Angular 6 SPA with Angular CLI full featured application.
 * [ASP.NET-MVC-Template](https://github.com/NikolayIT/ASP.NET-MVC-Template) - A ready-to-use templates for ASP.NET MVC 5 and ASP.NET Core with repositories, services, models mapping and DI and StyleCop warnings fixed.
