@@ -16,7 +16,7 @@ Check out my [blog](https://medium.com/@thangchung) or say hi on [Twitter](https
   * [Body](#body)
   * [Header](#header)
   * [Body body](#Body-body)
-  * [Blockchain](#blockchain)
+  * [Url](#url)
   * [Bot](#bot)
   * [Build Automation](#build-automation)
   * [Bundling and Minification](#bundling-and-minification)
@@ -203,8 +203,8 @@ Follows best practices and conventions to provide you a SOLID development experi
 * [stormpath-sdk](https://github.com/stormpath/stormpath-sdk-dotnet) - Build [simple, secure web applications](https://github.com/stormpath/stormpath-aspnetcore) with Stormpath and ASP.NET Core.(Deprecated: It will longer get updated as of March 2017 after joining OKTA) 
 * [stuntman](https://github.com/ritterim/stuntman) - Library for impersonating users during development leveraging ASP.NET Identity.
 
-### Blockchain
-* [BTCPayServer](https://github.com/btcpayserver/btcpayserver) - A cross platform, self-hosted server compatible with Bitpay API.
+### Url
+* [How to Create SEO-Friendly URLs](https://www.iaspnetcore.com/Blog/BlogPost/5f8044906cd85f05bc367393/how-to-create-seo-friendly-urls) - How to Create SEO-Friendly URLs.
 * [Meadow](https://github.com/MeadowSuite/Meadow) - An integrated Ethereum implementation and tool suite focused on Solidity testing and development.
 * [NBitcoin](https://github.com/MetacoSA/NBitcoin) - Comprehensive Bitcoin library for the .NET framework.
 * [NBlockchain](https://github.com/danielgerlag/NBlockchain) - .NET standard library for building blockchain enabled applications
