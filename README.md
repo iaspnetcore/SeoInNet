@@ -17,7 +17,7 @@ Check out my [blog](https://medium.com/@thangchung) or say hi on [Twitter](https
   * [Header](#header)
   * [Body body](#Body-body)
   * [Url](#url)
-  * [Bot](#bot)
+  * [Microdata](#Microdata)
   * [Build Automation](#build-automation)
   * [Bundling and Minification](#bundling-and-minification)
   * [Caching](#caching)
@@ -216,8 +216,8 @@ Follows best practices and conventions to provide you a SOLID development experi
 * [Trezor.Net](https://github.com/MelbourneDeveloper/Trezor.Net) - Cross platform C# library for talking to the Trezor Hardwarewallet
 * [WalletWasabi](https://github.com/zkSNACKs/WalletWasabi) - Privacy focused, ZeroLink compliant Bitcoin wallet.
 
-### Bot
-* [BotSharp](https://github.com/SciSharp/BotSharp) - The Open Source AI Chatbot Platform Builder in 100% C# Running in .NET Core with Machine Learning algorithm.
+### Microdata
+* [Live Microdata Test](https://foolip.org/microdatajs/live/) - Live Microdata Test web.
 * [NadekoBot](https://github.com/Kwoth/NadekoBot) - Open source, general-purpose Discord chat bot written in C#.
 * [Telegram.Bot](https://github.com/TelegramBots/Telegram.Bot) - C# Telegram Bot API library.
 * [Funogram](https://github.com/Dolfik1/Funogram) - F# Telegram Bot Api library.
