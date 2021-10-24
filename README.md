@@ -218,9 +218,9 @@ Follows best practices and conventions to provide you a SOLID development experi
 
 ### Microdata
 * [Live Microdata Test](https://foolip.org/microdatajs/live/) - Live Microdata Test web.
-* [NadekoBot](https://github.com/Kwoth/NadekoBot) - Open source, general-purpose Discord chat bot written in C#.
-* [Telegram.Bot](https://github.com/TelegramBots/Telegram.Bot) - C# Telegram Bot API library.
-* [Funogram](https://github.com/Dolfik1/Funogram) - F# Telegram Bot Api library.
+* [Microdata example html code](https://developer.mozilla.org/zh-CN/docs/Web/HTML/Microdata#%E7%A4%BA%E4%BE%8B) - Microdata example html code for test.
+* [Microdata blog in iaspnetcore.com](https://www.iaspnetcore.com/Blog/BlogPost/5ec8d27a4150553e79153ff8/microdata-for-web-page-optimization-seo-html5-extension) - Microdata blog in iaspnetcore.com.
+
 
 ### Build Automation
 * [cake-build](https://github.com/cake-build/cake) - Cross platform build automation system.
