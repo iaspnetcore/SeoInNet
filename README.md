@@ -6,14 +6,14 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 
 Thanks to all [contributors](https://github.com/thangchung/awesome-dotnet-core/graphs/contributors), you're awesome and wouldn't be possible without you! The goal is to build a categorized community-driven collection of very well-known resources.
 
-Check out my [blog](https://medium.com/@thangchung) or say hi on [Twitter](https://twitter.com/thangchung)!
+Seo new site step by step
 
-1. First item
+1. [Optimizing your ASP.NET MVC site for Google Search using meta properties, robots.txt and sitemap.xml](https://www.iaspnetcore.com/Blog/BlogPost/588a0e6284cd45329c35c8a3/seo-optimizing-your-aspnet-mvc-site-for-google-search-using-meta-properties-robotstxt-and-sitemapxml) - Seo in www.iaspnetcore.com.SEO: Optimizing your ASP.NET MVC site for Google Search using meta properties, robots.txt and sitemap.xml
 1. Second item
 1. Third item
 1. Fourth item
 
-* [s](https://www.iaspnetcore.com/Blog/BlogPost/5c0158e76c094f468465d792/seo-in-wwwiaspnetcorecom) - Seo in www.iaspnetcore.com.
+1 [s](https://www.iaspnetcore.com/Blog/BlogPost/5c0158e76c094f468465d792/seo-in-wwwiaspnetcorecom) - Seo in www.iaspnetcore.com.
 
 ## Contents
 
