@@ -8,7 +8,7 @@ Thanks to all [contributors](https://github.com/thangchung/awesome-dotnet-core/g
 
 Seo new site step by step
 
-1. [Optimizing your ASP.NET MVC site for Google Search using meta properties, robots.txt and sitemap.xml](https://www.iaspnetcore.com/Blog/BlogPost/588a0e6284cd45329c35c8a3/seo-optimizing-your-aspnet-mvc-site-for-google-search-using-meta-properties-robotstxt-and-sitemapxml) - Seo in www.iaspnetcore.com.SEO: Optimizing your ASP.NET MVC site for Google Search using meta properties, robots.txt and sitemap.xml
+1. [Optimizing your ASP.NET MVC site for Google Search using meta properties, robots.txt and sitemap.xml](https://www.iaspnetcore.com/Blog/BlogPost/588a0e6284cd45329c35c8a3/seo-optimizing-your-aspnet-mvc-site-for-google-search-using-meta-properties-robotstxt-and-sitemapxml) -  Optimizing your ASP.NET MVC site for Google Search using meta properties, robots.txt and sitemap.xml
 1. Second item
 1. Third item
 1. Fourth item
