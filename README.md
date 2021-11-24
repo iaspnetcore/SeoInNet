@@ -79,7 +79,7 @@ Check out my [blog](https://medium.com/@thangchung) or say hi on [Twitter](https
 * [[Original]网站前端性能提升优化要点实战记录](https://www.iaspnetcore.com/Blog/BlogPost/574db34b6ceb7e0be0ddad70/summary-of-the-main-points-of-the-performance-improvement-of-the-front-end-of-the-web-site) - 实时更新，优化要点备忘录.
 * [浅谈浏览器http的缓存机制](https://www.iaspnetcore.com/Blog/BlogPost/5949629084cd4533806567d0/the-type-and-mechanism-of-browser-https-caching) - 针对浏览器的http缓存的分析.
 * [Yahoo's Best Practices for Speeding Up Your Web Site](https://developer.yahoo.com/performance/rules.html) - The list includes 35 best practices divided into 7 categories,come from yahoo.
-* [Clean Code .NET/.NET Core](https://github.com/thangchung/clean-code-dotnet) - Clean Code concepts adapted for .NET / .NET Core.
+* [SEO Step 1: Optimizing your ASP.NET MVC site for Google Search using meta properties, robots.txt and sitemap.xml](https://www.iaspnetcore.com/Blog/BlogPost/588a0e6284cd45329c35c8a3/seo-optimizing-your-aspnet-mvc-site-for-google-search-using-meta-properties-robotstxt-and-sitemapxml) - SEO Step 1: Optimizing your ASP.NET MVC site for Google Search using meta properties, robots.txt and sitemap.xml.
 
 ## optimizing-your-site-for-search
 
