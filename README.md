@@ -8,6 +8,11 @@ Thanks to all [contributors](https://github.com/thangchung/awesome-dotnet-core/g
 
 Check out my [blog](https://medium.com/@thangchung) or say hi on [Twitter](https://twitter.com/thangchung)!
 
+1. First item
+1. Second item
+1. Third item
+1. Fourth item
+
 * [s](https://www.iaspnetcore.com/Blog/BlogPost/5c0158e76c094f468465d792/seo-in-wwwiaspnetcorecom) - Seo in www.iaspnetcore.com.
 
 ## Contents
