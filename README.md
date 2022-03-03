@@ -153,6 +153,7 @@ Seo new site step by step
 * [Live Microdata Test](https://foolip.org/microdatajs/live/) - Live Microdata Test web.
 * [Microdata example html code](https://developer.mozilla.org/zh-CN/docs/Web/HTML/Microdata#%E7%A4%BA%E4%BE%8B) - Microdata example html code for test.
 * [Microdata blog in iaspnetcore.com](https://www.iaspnetcore.com/Blog/BlogPost/5ec8d27a4150553e79153ff8/microdata-for-web-page-optimization-seo-html5-extension) - Microdata blog in iaspnetcore.com.
+* [Microdata product in NopCommerce 4.x](https://www.iaspnetcore.com/Blog/BlogPost/5f7fa6ed45006c7024d305d9/nopcommerce-4x-microdataonly-product) -  NopCommerce 4.x - Microdata(only product)
 
 
 ### Structured Data JSON-LD for google
