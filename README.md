@@ -17,8 +17,8 @@ Seo new site step by step
   * [Header](#header)
   * [Body body](#Body-body)
   * [Url](#url)
-  * [Microdata](#Microdata)
-  * [Build Automation](#build-automation)
+  * [Microdata](#Microdata-for-google)
+  * [Structured Data JSON-LD  for google](#Structured-Data-JSON-LD-for-google)
   * [Bundling and Minification](#bundling-and-minification)
   * [Caching](#caching)
   * [CMS](#cms)
@@ -216,14 +216,14 @@ Follows best practices and conventions to provide you a SOLID development experi
 * [Trezor.Net](https://github.com/MelbourneDeveloper/Trezor.Net) - Cross platform C# library for talking to the Trezor Hardwarewallet
 * [WalletWasabi](https://github.com/zkSNACKs/WalletWasabi) - Privacy focused, ZeroLink compliant Bitcoin wallet.
 
-### Microdata
+### Microdata for google
 * [Live Microdata Test](https://foolip.org/microdatajs/live/) - Live Microdata Test web.
 * [Microdata example html code](https://developer.mozilla.org/zh-CN/docs/Web/HTML/Microdata#%E7%A4%BA%E4%BE%8B) - Microdata example html code for test.
 * [Microdata blog in iaspnetcore.com](https://www.iaspnetcore.com/Blog/BlogPost/5ec8d27a4150553e79153ff8/microdata-for-web-page-optimization-seo-html5-extension) - Microdata blog in iaspnetcore.com.
 
 
-### Build Automation
-* [cake-build](https://github.com/cake-build/cake) - Cross platform build automation system.
+### Structured Data JSON-LD  for google
+* [Structured Data JSON-LD](https://www.iaspnetcore.com/blogpost-6220c5d84b638d49654f2890-structured-data-json-ld) - Structured Data JSON-LD examole code.
 * [CatLight](https://catlight.io) - Status notifier for developers that monitors builds and tasks in the project. Built using .Net Core and Electron.
 * [Colorful.Console](https://github.com/tomakita/Colorful.Console) - Style your C# console output!
 * [dotnet-docker](https://github.com/dotnet/dotnet-docker) - The base Docker images for working with .NET Core and the .NET Core Tools.
