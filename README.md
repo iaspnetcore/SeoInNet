@@ -123,7 +123,7 @@ Seo new site step by step
 
 ### Body
 * [网页优化SEO-HTML5与搜索引擎优化](https://www.iaspnetcore.com/blog/5ec8e7574150553e7916480b) - 网页结构设计优化SEO-HTML5与搜索引擎优化.
-* [网页优化SEO-How to Write SEO Content](https://www.iaspnetcore.com/Blog/BlogPost/5eeeb0b61c73d431275c8254/seo-how-to-write-seo-content) - 网页优化SEO-How to Write SEO Content.
+
 
 
 ### Header
@@ -132,8 +132,7 @@ Seo new site step by step
 
 ### Body body
 * [网页优化SEO-HTML5扩展之微数据http://schema.org与丰富网页摘要itemscope, itemtype, itemprop](https://www.iaspnetcore.com/Blog/BlogPost/5ec8d27a4150553e79153ff8) - 网页优化SEO-HTML5扩展之微数据http://schema.org与丰富网页摘要itemscope, itemtype, itemprop.
-* [Auth0](https://github.com/auth0/auth0.net) - Hosted, enterprise-grade platform for modern identity.
-* [Casbin.NET](https://github.com/casbin-net/Casbin.NET) - Authorization library that supports access control models like ACL, RBAC, ABAC in C#
+* [网页优化SEO-How to Write SEO Content](https://www.iaspnetcore.com/Blog/BlogPost/5eeeb0b61c73d431275c8254/seo-how-to-write-seo-content) - 网页优化SEO-How to Write SEO Content.
 * [Identity](https://github.com/aspnet/Identity) - ASP.NET Core Identity is the membership system for building ASP.NET Core web applications, including membership, login, and user data.
 * [IdentityServer](https://github.com/IdentityServer/IdentityServer4) - IdentityServer for ASP.NET Core 1.0 & 2.0
   * [IdentityServer4.EntityFramework](https://github.com/IdentityServer/IdentityServer4.EntityFramework) - EntityFramework persistence layer
