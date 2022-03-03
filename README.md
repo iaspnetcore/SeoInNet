@@ -123,6 +123,7 @@ Seo new site step by step
 
 ### Body
 * [网页优化SEO-HTML5与搜索引擎优化](https://www.iaspnetcore.com/blog/5ec8e7574150553e7916480b) - 网页结构设计优化SEO-HTML5与搜索引擎优化.
+* [网页优化SEO-How to Write SEO Content](https://www.iaspnetcore.com/Blog/BlogPost/5eeeb0b61c73d431275c8254/seo-how-to-write-seo-content) - 网页优化SEO-How to Write SEO Content.
 
 
 ### Header
