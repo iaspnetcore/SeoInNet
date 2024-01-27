@@ -13,10 +13,10 @@ Seo new site step by step
 * [General](#general)
 * [Optimizing your ASP.NET core MVC site for Search](#optimizing-your-site-for-search)
   * [Title](#Title-SEO)
+  * [Url](#url)
   * [Body](#body)
   * [Header](#header)
   * [Body body](#Body-body)
-  * [Url](#url)
   * [Microdata](#Microdata-for-google)
   * [Structured Data JSON-LD  for google](#Structured-Data-JSON-LD-for-google)
   * [Bundling and Minification](#bundling-and-minification)
@@ -121,6 +121,9 @@ Seo new site step by step
 * [WebAnchor](https://github.com/mattiasnordqvist/Web-Anchor) - Web Anchor provides type-safe, testable and flexible, runtime-generated access to web resources.
 * [WebAPIContrib for ASP.NET CORE](https://github.com/WebApiContrib/WebAPIContrib.Core) - Community Contributions for ASP.NET Core.
 
+### Url
+* [How to Create SEO-Friendly URLs](https://www.iaspnetcore.com/Blog/BlogPost/5f8044906cd85f05bc367393/how-to-create-seo-friendly-urls) - How to Create SEO-Friendly URLs.
+
 ### Body
 * [网页优化SEO-HTML5与搜索引擎优化](https://www.iaspnetcore.com/blog/5ec8e7574150553e7916480b) - 网页结构设计优化SEO-HTML5与搜索引擎优化.
 
@@ -144,9 +147,6 @@ Seo new site step by step
 * [stormpath-sdk](https://github.com/stormpath/stormpath-sdk-dotnet) - Build [simple, secure web applications](https://github.com/stormpath/stormpath-aspnetcore) with Stormpath and ASP.NET Core. 
 * [stormpath-sdk](https://github.com/stormpath/stormpath-sdk-dotnet) - Build [simple, secure web applications](https://github.com/stormpath/stormpath-aspnetcore) with Stormpath and ASP.NET Core.(Deprecated: It will longer get updated as of March 2017 after joining OKTA) 
 * [stuntman](https://github.com/ritterim/stuntman) - Library for impersonating users during development leveraging ASP.NET Identity.
-
-### Url
-* [How to Create SEO-Friendly URLs](https://www.iaspnetcore.com/Blog/BlogPost/5f8044906cd85f05bc367393/how-to-create-seo-friendly-urls) - How to Create SEO-Friendly URLs.
 
 
 ### Microdata for google
