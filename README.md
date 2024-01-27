@@ -85,7 +85,7 @@ Seo new site step by step
 
 ### Title SEO
 
-* [HTTP headers](https://www.geeksforgeeks.org/http-headers-accept-language/) -This HTTP  header tells the server about all  that the client can understand.`
+* [标题聚合页面容易被搜索引擎搜录](https://www.iaspnetcore.com/Blog/BlogPost/5c0158e76c094f468465d792/seo-in-wwwiaspnetcorecom#mcetoc_1hl5sh48930/) -标题聚合页面容易被搜索引擎搜录.`
 * [aspnet-api-versioning](https://github.com/Microsoft/aspnet-api-versioning) - set of libraries which add service API versioning to ASP.NET Web API, OData with ASP.NET Web API, and ASP.NET Core.
 * [AspNetCoreRateLimit](https://github.com/stefanprodan/AspNetCoreRateLimit) - ASP.NET Core rate limiting middleware.
 * [CondenserDotNet](https://github.com/Drawaes/CondenserDotNet) - API Condenser / Reverse Proxy using Kestrel and Consul, Including light weight consul library.
