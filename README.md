@@ -21,7 +21,7 @@ Seo new site step by step
   * [Structured Data JSON-LD  for google](#Structured-Data-JSON-LD-for-google)
   * [Bundling and Minification](#bundling-and-minification)
   * [Caching](#caching)
-  * [CMS](#cms)
+  * [CDN](#cdn)
   * [Code Analysis and Metrics](#code-analysis-and-metrics)  
   * [Compression](#compression)
   * [Compilers, Transpilers and Languages](#compilers-transpilers-and-languages)
@@ -187,8 +187,8 @@ Seo new site step by step
 * [Microsoft Caching](https://github.com/aspnet/Caching) - Libraries for in-memory caching and distributed caching.
 * [Stack Exchange Redis](https://github.com/StackExchange/StackExchange.Redis) - High performance general purpose redis client for .NET languages (C# etc).
 
-### CMS
-* [Awesome-CMS-Core](https://github.com/SaiGonSoftware/Awesome-CMS-Core) - Awesome CMS Core is an open source CMS built using ASP.Net Core & ReactJS with module separation concern in mind and provide lastest trend of technology like .Net Core, React, Webpack, SASS, Background Job, Message Queue.
+### CDN
+* [网站性能优化实战记录系列3-转移网站上的的css，js到cdn](https://www.iaspnetcore.com/blogpost-572506e26ceb7a33e4a06766-website-performance-optimization-series-3-transfer-css-js-to-cdn) - 网站性能优化实战记录系列3-转移网站上的的css，js到cdn.
 * [Blogifier.Core](https://github.com/blogifierdotnet/Blogifier.Core) - ASP.NET applications to provide common blogging functionality.
 * [Cofoundry](https://github.com/cofoundry-cms/cofoundry) - Open source .NET Core CMS and modular application framework. Code-first, unobtrusive and extensible.
 * [CoreWiki](https://github.com/csharpfritz/CoreWiki) - Simple ASP.NET Core wiki that we are working on during live coding streams.
